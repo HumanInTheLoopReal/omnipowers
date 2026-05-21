@@ -1,9 +1,9 @@
 {
-  "name": "superpowers",
+  "name": "omnipowers",
   "version": "5.1.0",
-  "description": "Superpowers skills and runtime bootstrap for coding agents",
+  "description": "Omnipowers skills and runtime bootstrap for coding agents",
   "type": "module",
-  "main": ".opencode/plugins/superpowers.js",
+  "main": ".opencode/plugins/omnipowers.js",
   "keywords": [
     "pi-package",
     "skills",
@@ -14,7 +14,7 @@
   ],
   "pi": {
     "extensions": [
-      "./.pi/extensions/superpowers.ts"
+      "./.pi/extensions/omnipowers.ts"
     ],
     "skills": [
       "./skills"

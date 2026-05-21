@@ -2,8 +2,8 @@
   "name": "omnipowers-dev",
   "description": "Development marketplace for Omnipowers core skills library",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "HumanInTheLoopReal",
+    "url": "https://github.com/HumanInTheLoopReal"
   },
   "plugins": [
     {
@@ -12,8 +12,8 @@
       "version": "5.1.0",
       "source": "./",
       "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
+        "name": "HumanInTheLoopReal",
+        "url": "https://github.com/HumanInTheLoopReal"
       }
     }
   ]

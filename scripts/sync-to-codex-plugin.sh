@@ -2,7 +2,7 @@
 #
 # sync-to-codex-plugin.sh
 #
-# Sync this omnipowers checkout → HumanInTheLoopReal/openai-codex-plugins.
+# Sync this omnipowers checkout → prime-radiant-inc/openai-codex-plugins.
 # Clones the fork fresh into a temp dir, rsyncs tracked upstream plugin content
 # (including committed Codex files under .codex-plugin/ and assets/), preserves
 # OpenAI-owned marketplace metadata already in the destination plugin, commits,
@@ -32,7 +32,7 @@ set -euo pipefail
 # Config — edit as upstream or canonical plugin shape evolves
 # =============================================================================
 
-FORK="HumanInTheLoopReal/openai-codex-plugins"
+FORK="prime-radiant-inc/openai-codex-plugins"
 DEFAULT_BASE="main"
 DEST_REL="plugins/omnipowers"
 
